@@ -1,0 +1,7 @@
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\bin\Debug\bai toan balo qui hoach dong.exe.config
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\bin\Debug\bai toan balo qui hoach dong.exe
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\bin\Debug\bai toan balo qui hoach dong.pdb
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\obj\Debug\bai toan balo qui hoach dong.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\obj\Debug\bai toan balo qui hoach dong.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\obj\Debug\bai toan balo qui hoach dong.exe
+C:\Users\cuong\OneDrive\Máy tính\bai toan qui hoach dong\bai toan balo qui hoach dong\bai toan balo qui hoach dong\obj\Debug\bai toan balo qui hoach dong.pdb
